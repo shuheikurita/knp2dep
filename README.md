@@ -1,4 +1,4 @@
-# knp2dep
+# knp2vec
 
 This is a repository I created for my own interest and purpose when I was a master course student.
 We are preparing more detailed usages.
