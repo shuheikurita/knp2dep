@@ -7,6 +7,6 @@ https://code.google.com/archive/p/word2vec/
 
 ## Usage
 ```
-make knp2dep
+make knp2vec
 ```
 
